@@ -1,4 +1,4 @@
-# Overview - AzurePowerShellDeployVM
+# Overview - AzureSearchSuperQuick
 This code will help you to manage documents in Azure Search using C# .Net (create / delete indexes, create / search documents)
 
 # About the project
