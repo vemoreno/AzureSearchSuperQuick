@@ -15,5 +15,5 @@ Azure Search is a service for make quick searches inside of data sources like Az
 
 # Additional information
 
-This project was wrote in Console Application, the Azure Client Library is included there, but if you want to read more about the Azure Client Library please check the oficial site.
-This is a referece to understand more about the service: http://bit.ly/2kHbsD4
+This project was wrote in Console Application, the Azure Client Library is included there, but if you want to read more about the Azure Client Library please check the Microsoft oficial site.
+This is a referece to understand more about the service: https://wp.me/p4REoZ-tO
