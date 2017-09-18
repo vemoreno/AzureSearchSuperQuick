@@ -4,7 +4,7 @@ This code will help you to manage and search documents in Azure Search using C# 
 # About the project
 Azure Search is a service for make quick searches inside of data sources like Azure Cosmos, Document DB, SQL Azure or Azure Storage. In this project you will find how to make searches into Azure Search with .Net using the Azure Search Client Library.
 
-#Technology used
+# Technology used
 
 * Visual Studio 2015.
 
