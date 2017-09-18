@@ -1,5 +1,5 @@
 # Overview - AzureSearchSuperQuick
-This code will help you to manage documents in Azure Search using C# .Net (create / delete indexes, create / search documents)
+This code will help you to manage and search documents in Azure Search using C# .Net (create / delete indexes, create / search documents)
 
 # About the project
 Azure Search is a service for make quick searches inside of data sources like Azure Cosmos, Document DB, SQL Azure or Azure Storage. In this project you will find how make searches into Azure Search with .Net using de Azure Client Library.
